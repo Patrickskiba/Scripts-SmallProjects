@@ -1,0 +1,15 @@
+{
+  "name": "momplaylist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js",
+    "dl": "/usr/local/bin/youtube-dl~"
+  },
+  "author": "Patrick Skiba & Erin Strickland",
+  "license": "MIT",
+  "dependencies": {
+    "standard": "^10.0.3"
+  }
+}
